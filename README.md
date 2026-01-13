@@ -18,3 +18,4 @@ To provide a clear and interactive view of insurance performance by tracking pol
 ### 6.Business Impact & Insights
 The dashboard helps identify trends in claims and premiums, monitor policy performance, and uncover customer behavior patterns. These insights support better risk assessment, improved pricing strategies, and more effective business planning.
 ### 6.	Screenshots / Demos
+https://github.com/AniquaShaikh07/Insurance-BI-model-dashboard/blob/main/INSURANCE%20BI%20MODEL%20DASHBOARD.pbix
